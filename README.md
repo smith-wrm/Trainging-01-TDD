@@ -1,7 +1,5 @@
 # FizzBuzz
 
----
-
 Run test by
 
 ```
